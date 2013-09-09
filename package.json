@@ -21,7 +21,10 @@
     "remote",
     "execution"
   ],
-  "author": "Vojta Jína <vojta.jina@gmail.com>",
+  "author": {
+    "name": "Vojta Jína",
+    "email": "vojta.jina@gmail.com"
+  },
   "contributors": [
     "Friedel Ziegelmayer <friedel.ziegelmayer@gmail.com>",
     "taichi <ryushi@gmail.com>",
